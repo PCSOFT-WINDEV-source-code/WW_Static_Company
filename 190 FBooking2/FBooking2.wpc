@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Palette Nom="FBooking2">
+  <Couleurs>
+    <Couleur Nom="FondFenetre" ID="0">#FAFCFB</Couleur>
+    <Couleur Nom="FondSansImage" ID="2">#FFFFFF</Couleur>
+    <Couleur Nom="FondChampSaisie" ID="3">#FFFFFF</Couleur>
+    <Couleur Nom="FondSurvol" ID="4">#F7F7F9</Couleur>
+    <Couleur Nom="FondSelection" ID="5">#DBE5F1</Couleur>
+    <Couleur Nom="FondTableLignesImpaires" ID="1">#21283A</Couleur>
+    <Couleur Nom="FondLibNote" ID="8">#FAFCFB</Couleur>
+    <Couleur Nom="FondLibAttention" ID="9">#FCEEC0</Couleur>
+    <Couleur Nom="TxtNormal" ID="10">#6A6E7A</Couleur>
+    <Couleur Nom="TxtSelection" ID="15">#747579</Couleur>
+    <Couleur Nom="TxtChampSaisie" ID="13">#6A6E7A</Couleur>
+    <Couleur Nom="TxtTitreFenetre" ID="11">#FFFFFF</Couleur>
+    <Couleur Nom="TxtSousTitre" ID="12">#606165</Couleur>
+    <Couleur Nom="TxtTitreOptionSelecteur" ID="19">#11131F</Couleur>
+    <Couleur Nom="CadreGeneral" ID="16">#DBDDDC</Couleur>
+    <Couleur Nom="TxtLien" ID="14">#4985CE</Couleur>
+    <Couleur Nom="TxtNegatif" ID="18">#C0C3CC</Couleur>
+    <Couleur Nom="CadreFondDegradeDebut" ID="6">#355D98</Couleur>
+    <Couleur Nom="CadreFondDegradeFin" ID="7">#26416C</Couleur>
+    <Couleur Nom="CadreAssorti" ID="17">#E9EAED</Couleur>
+    <Couleur Nom="TexteBouton" ID="20">#676A79</Couleur>
+  </Couleurs>
+</Palette>

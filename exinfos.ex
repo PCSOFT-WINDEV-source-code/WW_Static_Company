@@ -1,0 +1,10 @@
+[INFOS]
+gaf=0
+title=WW_Static_Company
+image=description.gif
+description=description.rtf
+source=1
+preview=preview.png
+typesite=0
+[OBJECT]
+WW_Static_Company.wwp=4096
